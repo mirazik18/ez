@@ -1,0 +1,7 @@
+C:\Users\АбдишевМ\source\repos\VERSTAK\VERSTAK\bin\Debug\VERSTAK.exe.config
+C:\Users\АбдишевМ\source\repos\VERSTAK\VERSTAK\bin\Debug\VERSTAK.exe
+C:\Users\АбдишевМ\source\repos\VERSTAK\VERSTAK\bin\Debug\VERSTAK.pdb
+C:\Users\АбдишевМ\source\repos\VERSTAK\VERSTAK\obj\Debug\VERSTAK.csprojAssemblyReference.cache
+C:\Users\АбдишевМ\source\repos\VERSTAK\VERSTAK\obj\Debug\VERSTAK.csproj.CoreCompileInputs.cache
+C:\Users\АбдишевМ\source\repos\VERSTAK\VERSTAK\obj\Debug\VERSTAK.exe
+C:\Users\АбдишевМ\source\repos\VERSTAK\VERSTAK\obj\Debug\VERSTAK.pdb
